@@ -1,0 +1,176 @@
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.exe
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.deps.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.runtimeconfig.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.pdb
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.AssemblyReference.cache
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.AssemblyInfoInputs.cache
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.AssemblyInfo.cs
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.CoreCompileInputs.cache
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.AccotuntsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AccotuntsApi.props
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccotuntsApi.props
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccotuntsApi.props
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\scopedcss\bundle\AccotuntsApi.styles.css
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.CopyComplete
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\refint\AccotuntsApi.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.pdb
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.genruntimeconfig.cache
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\ref\AccotuntsApi.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Najam\source\repos\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.exe
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.deps.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.runtimeconfig.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\AccotuntsApi.pdb
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Dapper.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.AssemblyReference.cache
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.AssemblyInfoInputs.cache
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.AssemblyInfo.cs
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.CoreCompileInputs.cache
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.AccotuntsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AccotuntsApi.props
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AccotuntsApi.props
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AccotuntsApi.props
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\scopedcss\bundle\AccotuntsApi.styles.css
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.csproj.CopyComplete
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\refint\AccotuntsApi.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.pdb
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.genruntimeconfig.cache
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\ref\AccotuntsApi.dll
