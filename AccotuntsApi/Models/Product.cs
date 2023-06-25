@@ -36,7 +36,7 @@ namespace AccotuntsApi.Models
 
         public int SectionID { get; set;}
 
-        public int Gst { get; set;} 
+        public float Gst { get; set;} 
 
         public string? UOM { get; set;} 
 

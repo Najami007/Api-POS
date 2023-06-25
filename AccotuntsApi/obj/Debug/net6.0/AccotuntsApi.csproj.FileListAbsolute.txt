@@ -174,3 +174,4 @@ C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0
 C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.pdb
 C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\AccotuntsApi.genruntimeconfig.cache
 C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\obj\Debug\net6.0\ref\AccotuntsApi.dll
+C:\Users\Najam\Desktop\Accounts & POS\AccotuntsApi\AccotuntsApi\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -44,6 +44,21 @@ namespace AccotuntsApi.Controllers
         }
 
 
+        [HttpGet("getcustomer")]
+
+        public IEnumerable<Party> getCustomer() 
+        {
+
+            var query = "Select PartyID,PartyName from Party where IsDeleted = 0 and Type ='C'";
+
+           using( var con = _context.CreateConnection())
+            {
+               var res = con.Query<Party>(query);
+                return res.ToList();
+            }
+        }
+
+
         [HttpPost("insertparty")]
         public string insertParty(Party party)
 

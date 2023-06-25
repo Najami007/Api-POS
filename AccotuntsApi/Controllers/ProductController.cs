@@ -195,7 +195,7 @@ namespace AccotuntsApi.Controllers
             parameters.Add("WholeSalePrice", prod.WholeSalePrice);
             parameters.Add("MinLimit", prod.MinLimit);
             parameters.Add("MaxLimit", prod.MaxLimit);
-            parameters.Add("Gst", prod.Gst);
+            parameters.Add("Gst",prod.Gst);
             parameters.Add("UOM", prod.UOM.Trim());
             parameters.Add("ModifiedOn", DateTime.Now);
             parameters.Add("ModifiedBy", prod.ModifiedBy);
